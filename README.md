@@ -46,19 +46,6 @@ project from Android Studio following the steps
 |  |  |
 | <br><img src="readme/tivi.png" alt="Tivi" width="240"></img>  <br><br>A work-in-progress TV show tracking Android app, which connects to [Trakt.tv](https://www.trakt.tv).<br><br>• Entirely written in [Kotlin](https://kotlinlang.org) and uses [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html) throughout<br>• Uses many of the [Architecture Components](https://developer.android.com/topic/libraries/architecture): Room, Lifecycle, Navigation<br>• Uses [Hilt](https://dagger.dev/hilt) for dependency injection<br><br>**[> Browse](https://tivi.app)** <br><br>  | <img src="readme/screenshots/Tivi.jpg" width="320" alt="Tivi sample demo">|
 
-## License
-```
-Copyright 2020 The Android Open Source Project
+##  MIT License
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    https://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 ```
